@@ -1,0 +1,1 @@
+{"org":"keshihajeyatharan", "name":"test_rest_api_proxy", "version":"1.0.17", "platform":"any", "ballerina_version":"2201.3.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_rest_api_proxy"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.3"}, {"org":"ballerina", "name":"http", "version":"2.5.2"}]}
