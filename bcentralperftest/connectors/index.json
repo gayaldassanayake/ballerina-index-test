@@ -1,0 +1,1 @@
+{"org":"bcentralperftest", "name":"connectors", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"connectors"}, {"name":"connectors.module1"}], "dependencies":[]}
