@@ -1,1 +1,2 @@
 {"org":"newdil", "name":"bcxr1hnn6y2j", "version":"12.8.3", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcxr1hnn6y2j"}], "dependencies":[{"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
+{"org":"newdil", "name":"bcxr1hnn6y2j", "version":"12.9.1", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcxr1hnn6y2j"}], "dependencies":[{"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
