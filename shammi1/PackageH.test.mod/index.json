@@ -1,0 +1,1 @@
+{"org":"shammi1", "name":"PackageH.test.mod", "version":"1.0.1", "platform":"any", "ballerina_version":"2201.4.0-20230103-130200-7894a0e5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageH.test.mod.api"}, {"name":"PackageH.test.mod.api.doc"}], "dependencies":[]}
