@@ -1,3 +1,4 @@
 {"org":"snsorg", "name":"tryScan", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tryScan"}], "dependencies":[]}
 {"org":"snsorg", "name":"tryScan", "version":"0.1.1", "platform":"any", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tryScan"}], "dependencies":[]}
 {"org":"snsorg", "name":"tryScan", "version":"0.1.10", "platform":"any", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tryScan"}], "dependencies":[]}
+{"org":"snsorg", "name":"tryScan", "version":"0.1.2", "platform":"any", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tryScan"}], "dependencies":[]}
