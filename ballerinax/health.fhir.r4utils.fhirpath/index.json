@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"health.fhir.r4utils.fhirpath", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health.fhir.r4utils.fhirpath"}], "dependencies":[{"org":"ballerina", "name":"regex", "version":"1.4.3"}]}
