@@ -1,0 +1,1 @@
+{"org":"nadun", "name":"prometheus", "version":"0.1.7", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"prometheus"}], "dependencies":[]}
