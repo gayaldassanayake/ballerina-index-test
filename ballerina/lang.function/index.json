@@ -10,3 +10,4 @@
 {"org":"ballerina", "name":"lang.function", "version":"2201.8.3", "platform":"java17", "ballerina_version":"2201.8.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.function"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.function", "version":"2201.8.4", "platform":"java17", "ballerina_version":"2201.8.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.function"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.function", "version":"2201.8.5", "platform":"java17", "ballerina_version":"2201.8.5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.function"}], "dependencies":[]}
+{"org":"ballerina", "name":"lang.function", "version":"2201.8.6", "platform":"java17", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.function"}], "dependencies":[]}
