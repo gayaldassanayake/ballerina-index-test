@@ -1,0 +1,1 @@
+{"org":"shammi1", "name":"greeting_service", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"greeting_service"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.4.3"}]}
