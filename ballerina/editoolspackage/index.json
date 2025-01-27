@@ -1,0 +1,1 @@
+{"org":"ballerina", "name":"editoolspackage", "version":"0.8.7", "platform":"java17", "ballerina_version":"2201.8.5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"editoolspackage"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.6.0"}]}
