@@ -1,3 +1,4 @@
 {"org":"gayaldassanayake", "name":"May02B", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"May02B"}], "dependencies":[]}
 {"org":"gayaldassanayake", "name":"May02B", "version":"1.1.0", "platform":"any", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"May02B"}], "dependencies":[]}
 {"org":"gayaldassanayake", "name":"May02B", "version":"1.1.5", "platform":"any", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"May02B"}], "dependencies":[]}
+{"org":"gayaldassanayake", "name":"May02B", "version":"1.2.0", "platform":"any", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"May02B"}], "dependencies":[]}
