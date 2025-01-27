@@ -1,1 +1,2 @@
 {"org":"myorgdil", "name":"PackageL.test", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageL.test.mod.api"}], "dependencies":[]}
+{"org":"myorgdil", "name":"PackageL.test", "version":"1.0.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageL.test.doc.api"}, {"name":"PackageL.test.mod.api"}], "dependencies":[]}
