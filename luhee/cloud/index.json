@@ -1,1 +1,2 @@
 {"org":"luhee", "name":"cloud", "version":"2.3.1", "platform":"any", "ballerina_version":"2201.2.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
+{"org":"luhee", "name":"cloud", "version":"2.3.2", "platform":"any", "ballerina_version":"2201.2.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
