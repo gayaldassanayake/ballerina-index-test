@@ -1,0 +1,1 @@
+{"org":"isurupiyarathna", "name":"swagger_petstore_openapi_30", "version":"1.2.0-pub1", "platform":"any", "ballerina_version":"2201.0.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"swagger_petstore_openapi_30"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.2.1"}]}
