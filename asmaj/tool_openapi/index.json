@@ -1,0 +1,1 @@
+{"org":"asmaj", "name":"tool_openapi", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_openapi"}], "dependencies":[]}
