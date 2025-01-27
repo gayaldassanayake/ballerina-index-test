@@ -4,3 +4,4 @@
 {"org":"tharanawanigaratne", "name":"tool_scan", "version":"0.0.4", "platform":"java17", "ballerina_version":"2201.9.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_scan"}], "dependencies":[]}
 {"org":"tharanawanigaratne", "name":"tool_scan", "version":"0.0.5", "platform":"java17", "ballerina_version":"2201.9.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_scan"}], "dependencies":[]}
 {"org":"tharanawanigaratne", "name":"tool_scan", "version":"0.0.6", "platform":"java17", "ballerina_version":"2201.9.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_scan"}], "dependencies":[]}
+{"org":"tharanawanigaratne", "name":"tool_scan", "version":"0.0.7", "platform":"java17", "ballerina_version":"2201.9.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_scan"}], "dependencies":[]}
