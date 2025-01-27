@@ -1,0 +1,1 @@
+{"org":"janakasandaruwan", "name":"new_at", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"new_at"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.2"}, {"org":"ballerina", "name":"http", "version":"2.4.0"}]}
