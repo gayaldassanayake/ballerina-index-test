@@ -1,3 +1,4 @@
 {"org":"lowcodedemo", "name":"democonnector.one", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.0.2-rc1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.one"}], "dependencies":[]}
 {"org":"lowcodedemo", "name":"democonnector.one", "version":"0.1.2", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.one"}], "dependencies":[]}
 {"org":"lowcodedemo", "name":"democonnector.one", "version":"0.1.3", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.one"}], "dependencies":[]}
+{"org":"lowcodedemo", "name":"democonnector.one", "version":"0.1.4", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.one"}], "dependencies":[]}
