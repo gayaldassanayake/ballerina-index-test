@@ -1,0 +1,1 @@
+{"org":"doofus", "name":"log", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.8.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"log"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.6.0"}]}
