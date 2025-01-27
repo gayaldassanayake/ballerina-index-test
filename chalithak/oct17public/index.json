@@ -1,0 +1,1 @@
+{"org":"chalithak", "name":"oct17public", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"oct17public"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.2"}, {"org":"ballerina", "name":"http", "version":"2.4.0"}]}
