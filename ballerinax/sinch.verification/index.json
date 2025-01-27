@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"sinch.verification", "version":"1.1.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sinch.verification"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.1.0"}]}
