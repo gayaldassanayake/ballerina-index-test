@@ -1,0 +1,1 @@
+{"org":"neworgdil", "name":"connector98", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"connector98"}, {"name":"connector98.module1"}, {"name":"connector98.module2"}], "dependencies":[]}
