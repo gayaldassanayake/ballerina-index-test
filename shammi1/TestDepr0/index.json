@@ -1,0 +1,1 @@
+{"org":"shammi1", "name":"TestDepr0", "version":"0.1.4", "platform":"any", "ballerina_version":"2201.5.0-20230410-000300-625e65c5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"TestDepr0"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.4.0"}]}
