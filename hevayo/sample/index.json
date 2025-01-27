@@ -5,3 +5,4 @@
 {"org":"hevayo", "name":"sample", "version":"2.2.2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}, {"name":"sample.inner"}], "dependencies":[]}
 {"org":"hevayo", "name":"sample", "version":"2.2.5", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}, {"name":"sample.inner"}], "dependencies":[]}
 {"org":"hevayo", "name":"sample", "version":"2.3.5", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}, {"name":"sample.inner"}], "dependencies":[]}
+{"org":"hevayo", "name":"sample", "version":"3.3.5", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}, {"name":"sample.inner"}], "dependencies":[]}
