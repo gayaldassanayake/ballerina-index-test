@@ -1,1 +1,2 @@
 {"org":"pramodya", "name":"package_i", "version":"3.0.0", "platform":"any", "ballerina_version":"2201.0.0-20220119-132800-f186f5e8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"package_i"}], "dependencies":[]}
+{"org":"pramodya", "name":"package_i", "version":"4.0.0", "platform":"any", "ballerina_version":"2201.0.0-20220124-155500-c100a354", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"package_i"}], "dependencies":[]}
