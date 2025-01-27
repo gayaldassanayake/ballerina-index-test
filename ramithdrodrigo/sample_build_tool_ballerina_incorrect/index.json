@@ -1,0 +1,1 @@
+{"org":"ramithdrodrigo", "name":"sample_build_tool_ballerina_incorrect", "version":"0.2.0", "platform":"java17", "ballerina_version":"2201.9.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample_build_tool_ballerina_incorrect"}], "dependencies":[]}
