@@ -1,1 +1,2 @@
 {"org":"ballerinax", "name":"snowflake.driver", "version":"2.2.0", "platform":"java11", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
+{"org":"ballerinax", "name":"snowflake.driver", "version":"2.3.0", "platform":"java11", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
