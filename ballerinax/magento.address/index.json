@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"magento.address", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"magento.address"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.2.0"}]}
