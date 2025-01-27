@@ -1,1 +1,2 @@
 {"org":"shammi1", "name":"PackageL_weEBIJ.test", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.4.0-20230103-130200-7894a0e5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageL_weEBIJ.test.mod.api"}], "dependencies":[]}
+{"org":"shammi1", "name":"PackageL_weEBIJ.test", "version":"1.0.1", "platform":"any", "ballerina_version":"2201.4.0-20230103-130200-7894a0e5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageL_weEBIJ.test.doc.api"}, {"name":"PackageL_weEBIJ.test.mod.api"}], "dependencies":[]}
