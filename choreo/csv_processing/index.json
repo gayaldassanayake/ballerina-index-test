@@ -1,0 +1,1 @@
+{"org":"choreo", "name":"csv_processing", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"csv_processing"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}, {"org":"ballerinax", "name":"aws.s3", "version":"2.1.0"}]}
