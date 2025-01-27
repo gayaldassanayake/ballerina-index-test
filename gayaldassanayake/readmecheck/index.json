@@ -1,2 +1,3 @@
 {"org":"gayaldassanayake", "name":"readmecheck", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.11.0-20241209-162400-0c015833", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"readmecheck"}], "dependencies":[]}
 {"org":"gayaldassanayake", "name":"readmecheck", "version":"0.1.1", "platform":"any", "ballerina_version":"2201.11.0-20241209-162400-0c015833", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"readmecheck"}], "dependencies":[]}
+{"org":"gayaldassanayake", "name":"readmecheck", "version":"0.1.2", "platform":"any", "ballerina_version":"2201.11.0-20241209-162400-0c015833", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"readmecheck"}, {"name":"readmecheck.mod1"}], "dependencies":[]}
