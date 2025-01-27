@@ -1,0 +1,1 @@
+{"org":"choreo", "name":"xml_to_json_conversion", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"xml_to_json_conversion"}], "dependencies":[{"org":"ballerina", "name":"xmldata", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
