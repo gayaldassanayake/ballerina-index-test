@@ -1,1 +1,2 @@
 {"org":"pubuduf", "name":"policy_validator", "version":"0.0.1", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"policy_validator"}], "dependencies":[]}
+{"org":"pubuduf", "name":"policy_validator", "version":"0.0.2", "platform":"any", "ballerina_version":"2201.1.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"policy_validator"}], "dependencies":[]}
