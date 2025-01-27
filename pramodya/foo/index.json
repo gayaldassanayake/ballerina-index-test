@@ -1,0 +1,1 @@
+{"org":"pramodya", "name":"foo", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.1.0-rc1.9", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"foo"}], "dependencies":[]}
