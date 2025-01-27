@@ -1,0 +1,1 @@
+{"org":"isuruboyagane", "name":"afv_sdf.greetings", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"afv_sdf.greetings"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.0.0"}, {"org":"ballerina", "name":"http", "version":"2.0.0"}]}
