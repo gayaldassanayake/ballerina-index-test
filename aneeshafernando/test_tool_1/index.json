@@ -1,3 +1,4 @@
 {"org":"aneeshafernando", "name":"test_tool_1", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.6.1-20230707-135000-d7e91217", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_tool_1"}], "dependencies":[]}
 {"org":"aneeshafernando", "name":"test_tool_1", "version":"0.2.0", "platform":"any", "ballerina_version":"2201.7.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_tool_1"}], "dependencies":[]}
 {"org":"aneeshafernando", "name":"test_tool_1", "version":"0.3.0", "platform":"any", "ballerina_version":"2201.7.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_tool_1"}], "dependencies":[]}
+{"org":"aneeshafernando", "name":"test_tool_1", "version":"0.4.0", "platform":"any", "ballerina_version":"2201.7.0-20230619-175900-bb4e4544", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_tool_1"}], "dependencies":[]}
