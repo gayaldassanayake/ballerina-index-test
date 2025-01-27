@@ -1,0 +1,1 @@
+{"org":"sandalukalpanee", "name":"sandy18", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sandy18"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"1.1.0-beta.2"}, {"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
