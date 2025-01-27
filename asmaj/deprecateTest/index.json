@@ -1,0 +1,1 @@
+{"org":"asmaj", "name":"deprecateTest", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.5.0-20230404-105200-b8aec90e", "is_deprecated":true, "deprecation_message":"Use 'deprecateTest2' instead", "modules":[{"name":"deprecateTest"}], "dependencies":[]}
