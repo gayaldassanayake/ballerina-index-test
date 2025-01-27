@@ -1,2 +1,3 @@
 {"org":"kipbull", "name":"badger", "version":"0.1.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"badger"}], "dependencies":[]}
 {"org":"kipbull", "name":"badger", "version":"0.3.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"badger"}], "dependencies":[]}
+{"org":"kipbull", "name":"badger", "version":"0.4.0", "platform":"any", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"badger"}], "dependencies":[]}
