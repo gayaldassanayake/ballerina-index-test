@@ -4,3 +4,4 @@
 {"org":"winerydil", "name":"mycon", "version":"0.4.0", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mycon"}], "dependencies":[]}
 {"org":"winerydil", "name":"mycon", "version":"0.5.0", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mycon"}], "dependencies":[]}
 {"org":"winerydil", "name":"mycon", "version":"0.6.0", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mycon"}], "dependencies":[]}
+{"org":"winerydil", "name":"mycon", "version":"0.7.0", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mycon"}], "dependencies":[]}
