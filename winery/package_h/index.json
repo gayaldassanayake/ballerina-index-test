@@ -1,0 +1,1 @@
+{"org":"winery", "name":"package_h", "version":"0.1.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"package_h.api.docs"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.0.0"}]}
