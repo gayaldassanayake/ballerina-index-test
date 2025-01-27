@@ -1,1 +1,2 @@
 {"org":"mynewdil", "name":"mytest", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.8.0-20230908-135700-74a59dff", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mytest"}], "dependencies":[]}
+{"org":"mynewdil", "name":"mytest", "version":"1.1.0", "platform":"any", "ballerina_version":"2201.8.0-20230908-135700-74a59dff", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mytest"}], "dependencies":[]}
