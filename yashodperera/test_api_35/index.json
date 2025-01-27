@@ -1,0 +1,1 @@
+{"org":"yashodperera", "name":"test_api_35", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_api_35"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
