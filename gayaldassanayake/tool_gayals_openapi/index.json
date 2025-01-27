@@ -1,1 +1,2 @@
 {"org":"gayaldassanayake", "name":"tool_gayals_openapi", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.7.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_gayals_openapi"}], "dependencies":[]}
+{"org":"gayaldassanayake", "name":"tool_gayals_openapi", "version":"1.0.1", "platform":"any", "ballerina_version":"2201.7.0-20230622-064700-4a2dc6dd", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_gayals_openapi"}], "dependencies":[]}
