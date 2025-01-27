@@ -1,0 +1,1 @@
+{"org":"newdil", "name":"bcbhura2vrvm", "version":"12.8.3", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcbhura2vrvm"}], "dependencies":[{"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
