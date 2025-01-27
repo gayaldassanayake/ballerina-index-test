@@ -1,0 +1,1 @@
+{"org":"shehanpa", "name":"fb", "version":"0.7.0", "platform":"any", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"fb"}, {"name":"fb.errors"}, {"name":"fb.world"}], "dependencies":[]}
