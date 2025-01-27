@@ -1,1 +1,2 @@
 {"org":"kaneeltest", "name":"bctestzq6ok4awdk", "version":"4.2.3", "platform":"java11", "ballerina_version":"slp8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bctestzq6ok4awdk"}], "dependencies":[]}
+{"org":"kaneeltest", "name":"bctestzq6ok4awdk", "version":"5.1.6", "platform":"any", "ballerina_version":"slp8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bctestzq6ok4awdk"}], "dependencies":[]}
