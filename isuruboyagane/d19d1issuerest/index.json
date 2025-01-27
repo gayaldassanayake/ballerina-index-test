@@ -1,0 +1,1 @@
+{"org":"isuruboyagane", "name":"d19d1issuerest", "version":"1.0.0-alpha.1", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"d19d1issuerest"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
