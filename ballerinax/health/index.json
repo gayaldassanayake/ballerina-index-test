@@ -2,3 +2,4 @@
 {"org":"ballerinax", "name":"health", "version":"2.0.0", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health"}], "dependencies":[]}
 {"org":"ballerinax", "name":"health", "version":"2.1.0", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health"}], "dependencies":[]}
 {"org":"ballerinax", "name":"health", "version":"2.1.1", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health"}], "dependencies":[]}
+{"org":"ballerinax", "name":"health", "version":"2.1.2", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health"}], "dependencies":[]}
