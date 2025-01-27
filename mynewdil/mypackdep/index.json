@@ -1,0 +1,1 @@
+{"org":"mynewdil", "name":"mypackdep", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.4.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mypackdep"}], "dependencies":[{"org":"mynewdil", "name":"deprecate_sample", "version":"0.1.0"}]}
