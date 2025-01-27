@@ -1,0 +1,1 @@
+{"org":"shanorg", "name":"testPolicy3.1", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.3.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"testPolicy3.1"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.5.3"}, {"org":"choreo", "name":"mediation", "version":"1.0.1"}]}
