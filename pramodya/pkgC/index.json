@@ -1,0 +1,1 @@
+{"org":"pramodya", "name":"pkgC", "version":"0.1.0", "platform":"any", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"pkgC"}], "dependencies":[{"org":"pramodya", "name":"pkgA", "version":"0.1.0"}, {"org":"pramodya", "name":"pkgB", "version":"0.1.0"}]}
