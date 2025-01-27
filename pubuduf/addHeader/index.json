@@ -1,0 +1,1 @@
+{"org":"pubuduf", "name":"addHeader", "version":"0.0.1", "platform":"any", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"addHeader"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.2.2"}, {"org":"pubuduf", "name":"policy_validator", "version":"0.0.1"}]}
