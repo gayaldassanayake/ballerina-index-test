@@ -1,0 +1,1 @@
+{"org":"keshihajeyatharan", "name":"food", "version":"1.0.0-c.1", "platform":"any", "ballerina_version":"2201.0.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"food"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.1"}, {"org":"ballerina", "name":"http", "version":"2.2.1"}]}
