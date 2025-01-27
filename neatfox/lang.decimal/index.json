@@ -1,0 +1,1 @@
+{"org":"neatfox", "name":"lang.decimal", "version":"0.0.0", "platform":"java11", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.decimal"}], "dependencies":[]}
