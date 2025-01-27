@@ -1,0 +1,1 @@
+{"org":"isurumalinda", "name":"tex_coragvid19_api", "version":"3.0.0-2.3", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tex_coragvid19_api"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
