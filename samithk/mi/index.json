@@ -1,1 +1,2 @@
 {"org":"samithk", "name":"mi", "version":"0.0.1", "platform":"java17", "ballerina_version":"2201.9.0-20240502-141200-0a49fa42", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mi"}], "dependencies":[]}
+{"org":"samithk", "name":"mi", "version":"0.1.1", "platform":"java17", "ballerina_version":"2201.9.0-20240502-141200-0a49fa42", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mi"}], "dependencies":[]}
