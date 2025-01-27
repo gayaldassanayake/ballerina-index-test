@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"java.jms", "version":"0.1.2", "platform":"java11", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"java.jms"}], "dependencies":[{"org":"ballerina", "name":"log", "version":"2.7.1"}]}
