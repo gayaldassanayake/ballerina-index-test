@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"dayforce", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"dayforce"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.4.0"}, {"org":"ballerina", "name":"http", "version":"2.10.13"}]}
