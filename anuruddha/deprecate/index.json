@@ -1,1 +1,2 @@
 {"org":"anuruddha", "name":"deprecate", "version":"2.1.0", "platform":"any", "ballerina_version":"2201.2.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"deprecate"}], "dependencies":[]}
+{"org":"anuruddha", "name":"deprecate", "version":"2.1.1", "platform":"any", "ballerina_version":"2201.2.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"deprecate"}], "dependencies":[]}
