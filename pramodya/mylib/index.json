@@ -1,1 +1,2 @@
 {"org":"pramodya", "name":"mylib", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.1.0-rc1.12", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mylib"}], "dependencies":[]}
+{"org":"pramodya", "name":"mylib", "version":"0.1.2", "platform":"any", "ballerina_version":"2201.2.0-rc1-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mylib"}], "dependencies":[]}
