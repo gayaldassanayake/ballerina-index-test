@@ -1,2 +1,3 @@
 {"org":"nadun", "name":"prometheus", "version":"0.1.7", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"prometheus"}], "dependencies":[]}
 {"org":"nadun", "name":"prometheus", "version":"0.1.8-20210427-174300-b1e9d11", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"prometheus"}], "dependencies":[]}
+{"org":"nadun", "name":"prometheus", "version":"0.1.8-20210428-174500-b1e9d11", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"prometheus"}], "dependencies":[]}
