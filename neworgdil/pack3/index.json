@@ -1,0 +1,1 @@
+{"org":"neworgdil", "name":"pack3", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.5.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"pack3"}], "dependencies":[{"org":"neworgdil", "name":"pack2", "version":"1.0.0"}]}
