@@ -1,2 +1,3 @@
 {"org":"kaneeltest", "name":"bctests5gv1wuh1d", "version":"1.3.3", "platform":"java11", "ballerina_version":"slp8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bctests5gv1wuh1d"}], "dependencies":[]}
 {"org":"kaneeltest", "name":"bctests5gv1wuh1d", "version":"4.2.3", "platform":"java11", "ballerina_version":"slp8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bctests5gv1wuh1d"}], "dependencies":[]}
+{"org":"kaneeltest", "name":"bctests5gv1wuh1d", "version":"5.1.6", "platform":"any", "ballerina_version":"slp8", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bctests5gv1wuh1d"}], "dependencies":[]}
