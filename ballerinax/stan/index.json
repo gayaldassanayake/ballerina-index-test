@@ -1,2 +1,3 @@
 {"org":"ballerinax", "name":"stan", "version":"2.0.0", "platform":"java11", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"stan"}], "dependencies":[{"org":"ballerina", "name":"crypto", "version":"2.0.0"}]}
 {"org":"ballerinax", "name":"stan", "version":"2.1.0", "platform":"java11", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"stan"}], "dependencies":[{"org":"ballerina", "name":"crypto", "version":"2.1.0"}]}
+{"org":"ballerinax", "name":"stan", "version":"2.2.0", "platform":"java11", "ballerina_version":"2201.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"stan"}], "dependencies":[{"org":"ballerina", "name":"crypto", "version":"2.2.0"}]}
