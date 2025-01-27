@@ -1,0 +1,1 @@
+{"org":"thisuratest", "name":"heyworld", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.8.4", "is_deprecated":true, "deprecation_message":"test deprecated", "modules":[{"name":"heyworld"}], "dependencies":[]}
