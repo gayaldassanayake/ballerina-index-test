@@ -12,3 +12,4 @@
 {"org":"newdil", "name":"bcpmu39nue62", "version":"20.6.2", "platform":"any", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcpmu39nue62"}], "dependencies":[]}
 {"org":"newdil", "name":"bcpmu39nue62", "version":"20.7.5", "platform":"any", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcpmu39nue62"}], "dependencies":[]}
 {"org":"newdil", "name":"bcpmu39nue62", "version":"21.7.4", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcpmu39nue62"}], "dependencies":[{"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
+{"org":"newdil", "name":"bcpmu39nue62", "version":"22.7.4", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcpmu39nue62"}], "dependencies":[]}
