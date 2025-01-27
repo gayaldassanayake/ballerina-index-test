@@ -1,1 +1,2 @@
 {"org":"pubuduf", "name":"configurable.test", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.2.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"configurable.test"}], "dependencies":[]}
+{"org":"pubuduf", "name":"configurable.test", "version":"0.2.0", "platform":"any", "ballerina_version":"2201.1.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"configurable.test"}], "dependencies":[]}
