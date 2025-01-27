@@ -1,0 +1,1 @@
+{"org":"mirajabeysekara", "name":"external_package2", "version":"0.1.0", "platform":"java11", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"external_package2"}], "dependencies":[{"org":"ballerina", "name":"os", "version":"1.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
