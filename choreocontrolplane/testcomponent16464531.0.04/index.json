@@ -1,0 +1,1 @@
+{"org":"choreocontrolplane", "name":"testcomponent16464531.0.04", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"testcomponent16464531.0.04"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.1"}, {"org":"ballerina", "name":"http", "version":"2.2.1"}]}
