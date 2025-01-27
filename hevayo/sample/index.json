@@ -1,1 +1,2 @@
 {"org":"hevayo", "name":"sample", "version":"1.1.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}], "dependencies":[]}
+{"org":"hevayo", "name":"sample", "version":"1.1.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sample"}], "dependencies":[]}
