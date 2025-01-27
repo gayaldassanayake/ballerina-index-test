@@ -1,3 +1,4 @@
 {"org":"mynewdil", "name":"newdep", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.4.0-SNAPSHOT", "is_deprecated":true, "deprecation_message":"tests", "modules":[{"name":"newdep"}], "dependencies":[]}
 {"org":"mynewdil", "name":"newdep", "version":"2.1.0", "platform":"any", "ballerina_version":"2201.4.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"newdep"}], "dependencies":[]}
 {"org":"mynewdil", "name":"newdep", "version":"2.1.1", "platform":"any", "ballerina_version":"2201.4.0-SNAPSHOT", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"newdep"}], "dependencies":[]}
+{"org":"mynewdil", "name":"newdep", "version":"2.1.2", "platform":"any", "ballerina_version":"2201.4.0-SNAPSHOT", "is_deprecated":true, "deprecation_message":"testing purposes", "modules":[{"name":"newdep"}], "dependencies":[]}
