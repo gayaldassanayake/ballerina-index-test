@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"cloudmersive.currency", "version":"1.1.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloudmersive.currency"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.1.0"}]}
