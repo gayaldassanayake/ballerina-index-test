@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"jballerina.java", "version":"2201.10.0", "platform":"any", "ballerina_version":"2201.10.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
+{"org":"ballerina", "name":"jballerina.java", "version":"2201.10.1", "platform":"any", "ballerina_version":"2201.10.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
