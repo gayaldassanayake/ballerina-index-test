@@ -1,1 +1,2 @@
 {"org":"shehanpa", "name":"test_prj", "version":"0.2.0", "platform":"any", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_prj"}, {"name":"test_prj.world"}], "dependencies":[]}
+{"org":"shehanpa", "name":"test_prj", "version":"0.3.0", "platform":"any", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test_prj"}, {"name":"test_prj.world"}], "dependencies":[]}
