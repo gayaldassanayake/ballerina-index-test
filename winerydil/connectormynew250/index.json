@@ -1,0 +1,1 @@
+{"org":"winerydil", "name":"connectormynew250", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"connectormynew250"}, {"name":"connectormynew250.module1"}, {"name":"connectormynew250.module2"}], "dependencies":[]}
