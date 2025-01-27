@@ -1,0 +1,1 @@
+{"org":"isurupiyarathna", "name":"march7_2", "version":"1.0.0-hh", "platform":"any", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"march7_2"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.1"}, {"org":"ballerina", "name":"http", "version":"2.2.1"}]}
