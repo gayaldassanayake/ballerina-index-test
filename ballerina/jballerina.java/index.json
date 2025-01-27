@@ -3,3 +3,4 @@
 {"org":"ballerina", "name":"jballerina.java", "version":"2201.10.2", "platform":"any", "ballerina_version":"2201.10.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
 {"org":"ballerina", "name":"jballerina.java", "version":"2201.5.0", "platform":"any", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
 {"org":"ballerina", "name":"jballerina.java", "version":"2201.6.0", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
+{"org":"ballerina", "name":"jballerina.java", "version":"2201.7.2", "platform":"any", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"jballerina.java"}], "dependencies":[]}
