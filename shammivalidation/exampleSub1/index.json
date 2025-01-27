@@ -1,0 +1,1 @@
+{"org":"shammivalidation", "name":"exampleSub1", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.0.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"exampleSub1"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.2.1"}]}
