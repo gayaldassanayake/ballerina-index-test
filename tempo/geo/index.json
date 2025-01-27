@@ -1,0 +1,1 @@
+{"org":"tempo", "name":"geo", "version":"0.1.7", "platform":"any", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"geo"}], "dependencies":[{"org":"ballerina", "name":"log", "version":"2.9.0"}, {"org":"ballerina", "name":"os", "version":"1.8.0"}, {"org":"ballerina", "name":"http", "version":"2.10.4"}]}
