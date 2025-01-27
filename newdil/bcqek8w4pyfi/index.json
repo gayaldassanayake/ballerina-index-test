@@ -10,3 +10,4 @@
 {"org":"newdil", "name":"bcqek8w4pyfi", "version":"18.6.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcqek8w4pyfi"}], "dependencies":[]}
 {"org":"newdil", "name":"bcqek8w4pyfi", "version":"19.7.4", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcqek8w4pyfi"}], "dependencies":[{"org":"ballerina", "name":"observe", "version":"0.9.0"}]}
 {"org":"newdil", "name":"bcqek8w4pyfi", "version":"20.6.2", "platform":"any", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcqek8w4pyfi"}], "dependencies":[]}
+{"org":"newdil", "name":"bcqek8w4pyfi", "version":"20.7.5", "platform":"any", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"bcqek8w4pyfi"}], "dependencies":[]}
