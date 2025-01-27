@@ -1,1 +1,2 @@
 {"org":"lowcodedemo", "name":"democonnector.three", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.0.2-rc1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.three"}], "dependencies":[]}
+{"org":"lowcodedemo", "name":"democonnector.three", "version":"0.1.1", "platform":"any", "ballerina_version":"2201.0.3-rc1.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"democonnector.three"}], "dependencies":[]}
