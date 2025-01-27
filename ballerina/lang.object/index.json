@@ -11,3 +11,4 @@
 {"org":"ballerina", "name":"lang.object", "version":"2201.8.4", "platform":"any", "ballerina_version":"2201.8.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.object"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.object", "version":"2201.8.5", "platform":"any", "ballerina_version":"2201.8.5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.object"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.object", "version":"2201.8.6", "platform":"any", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.object"}], "dependencies":[]}
+{"org":"ballerina", "name":"lang.object", "version":"2201.9.0", "platform":"any", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.object"}], "dependencies":[]}
