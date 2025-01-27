@@ -2,3 +2,4 @@
 {"org":"ballerinax", "name":"snowflake.driver", "version":"2.3.0", "platform":"java11", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
 {"org":"ballerinax", "name":"snowflake.driver", "version":"2.4.0", "platform":"java11", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
 {"org":"ballerinax", "name":"snowflake.driver", "version":"2.5.0", "platform":"java11", "ballerina_version":"2201.4.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
+{"org":"ballerinax", "name":"snowflake.driver", "version":"2.6.0", "platform":"java11", "ballerina_version":"2201.7.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"snowflake.driver"}], "dependencies":[]}
