@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"health.hl7v2", "version":"2.2.1", "platform":"any", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health.hl7v2"}], "dependencies":[{"org":"ballerina", "name":"time", "version":"2.4.0"}, {"org":"ballerina", "name":"log", "version":"2.9.0"}, {"org":"ballerina", "name":"tcp", "version":"1.10.0"}]}
