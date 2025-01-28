@@ -7,3 +7,4 @@
 {"org":"ballerina", "name":"test", "version":"2201.7.1", "platform":"java11", "ballerina_version":"2201.7.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test"}], "dependencies":[]}
 {"org":"ballerina", "name":"test", "version":"2201.7.2", "platform":"java11", "ballerina_version":"2201.7.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test"}], "dependencies":[]}
 {"org":"ballerina", "name":"test", "version":"2201.8.0", "platform":"java17", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test"}], "dependencies":[]}
+{"org":"ballerina", "name":"test", "version":"2201.8.1", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"test"}], "dependencies":[]}
