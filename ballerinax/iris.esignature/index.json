@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"iris.esignature", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"iris.esignature"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.0.0"}, {"org":"ballerina", "name":"http", "version":"2.0.0"}]}
