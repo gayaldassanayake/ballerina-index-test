@@ -1,0 +1,1 @@
+{"org":"rashm1nst", "name":"aaaa", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"aaaa"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.4"}, {"org":"ballerina", "name":"http", "version":"2.8.2"}]}
