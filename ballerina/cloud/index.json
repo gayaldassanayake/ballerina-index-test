@@ -7,3 +7,4 @@
 {"org":"ballerina", "name":"cloud", "version":"2.0.0-beta.6", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
 {"org":"ballerina", "name":"cloud", "version":"2.1.1", "platform":"any", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
 {"org":"ballerina", "name":"cloud", "version":"2.1.4", "platform":"any", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
+{"org":"ballerina", "name":"cloud", "version":"2.1.5", "platform":"any", "ballerina_version":"2201.0.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"cloud"}], "dependencies":[]}
