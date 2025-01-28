@@ -1,0 +1,1 @@
+{"org":"winery", "name":"forwardpack1", "version":"1.1.0", "platform":"any", "ballerina_version":"9999.0.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"forwardpack1"}], "dependencies":[]}
