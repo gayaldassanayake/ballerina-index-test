@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"sap", "version":"1.0.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"sap"}], "dependencies":[{"org":"ballerina", "name":"mime", "version":"2.9.0"}, {"org":"ballerina", "name":"http", "version":"2.11.1"}]}
