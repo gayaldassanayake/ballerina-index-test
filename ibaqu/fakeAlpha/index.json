@@ -1,3 +1,4 @@
 {"org":"ibaqu", "name":"fakeAlpha", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"fakeAlpha"}], "dependencies":[]}
 {"org":"ibaqu", "name":"fakeAlpha", "version":"1.0.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"fakeAlpha"}], "dependencies":[]}
 {"org":"ibaqu", "name":"fakeAlpha", "version":"1.1.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"fakeAlpha"}], "dependencies":[]}
+{"org":"ibaqu", "name":"fakeAlpha", "version":"1.2.0", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"fakeAlpha"}], "dependencies":[]}
