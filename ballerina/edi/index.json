@@ -1,0 +1,1 @@
+{"org":"ballerina", "name":"edi", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"edi"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.4.0"}, {"org":"ballerina", "name":"log", "version":"2.7.0"}, {"org":"ballerina", "name":"regex", "version":"1.4.2"}]}
