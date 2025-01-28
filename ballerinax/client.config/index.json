@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"client.config", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.2.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"client.config"}], "dependencies":[{"org":"ballerina", "name":"oauth2", "version":"2.4.0"}, {"org":"ballerina", "name":"http", "version":"2.4.0"}]}
