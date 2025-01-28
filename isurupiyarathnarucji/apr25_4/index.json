@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"apr25_4", "version":"1.2.0-errr", "platform":"any", "ballerina_version":"2201.0.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"apr25_4"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.1"}, {"org":"ballerina", "name":"http", "version":"2.2.1"}]}
