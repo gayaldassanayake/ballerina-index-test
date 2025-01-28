@@ -7,3 +7,4 @@
 {"org":"ballerina", "name":"url", "version":"2.2.1", "platform":"java11", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
 {"org":"ballerina", "name":"url", "version":"2.2.2", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
 {"org":"ballerina", "name":"url", "version":"2.2.3", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
+{"org":"ballerina", "name":"url", "version":"2.2.4", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
