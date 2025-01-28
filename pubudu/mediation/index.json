@@ -1,1 +1,2 @@
 {"org":"pubudu", "name":"mediation", "version":"0.3.4", "platform":"any", "ballerina_version":"2201.1.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
+{"org":"pubudu", "name":"mediation", "version":"0.3.5", "platform":"any", "ballerina_version":"2201.1.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
