@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"apiioc", "version":"1.2.0-tc", "platform":"any", "ballerina_version":"2201.0.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"apiioc"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.2.1"}, {"org":"ballerina", "name":"http", "version":"2.2.1"}]}
