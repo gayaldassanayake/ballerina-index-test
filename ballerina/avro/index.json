@@ -1,3 +1,4 @@
 {"org":"ballerina", "name":"avro", "version":"0.1.0", "platform":"java17", "ballerina_version":"2201.8.6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"avro"}], "dependencies":[]}
 {"org":"ballerina", "name":"avro", "version":"0.1.2", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"avro"}], "dependencies":[]}
 {"org":"ballerina", "name":"avro", "version":"1.0.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"avro"}], "dependencies":[]}
+{"org":"ballerina", "name":"avro", "version":"1.1.0", "platform":"java21", "ballerina_version":"2201.11.0-20241209-162400-0c015833", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"avro"}], "dependencies":[]}
