@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"diseasedf_088C", "version":"1.0.5", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"diseasedf_088C"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.1.0"}]}
