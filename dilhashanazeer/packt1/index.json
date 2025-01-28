@@ -1,0 +1,1 @@
+{"org":"dilhashanazeer", "name":"packt1", "version":"1.0.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"packt1.mod.doc"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.0.0"}]}
