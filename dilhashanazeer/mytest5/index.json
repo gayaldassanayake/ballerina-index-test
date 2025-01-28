@@ -1,1 +1,2 @@
 {"org":"dilhashanazeer", "name":"mytest5", "version":"1.0.1-beta.2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mytest5"}], "dependencies":[]}
+{"org":"dilhashanazeer", "name":"mytest5", "version":"1.0.2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mytest5"}], "dependencies":[]}
