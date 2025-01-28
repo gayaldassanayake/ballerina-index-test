@@ -1,0 +1,1 @@
+{"org":"choreotemplates2", "name":"periodical_scheduled_task", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"periodical_scheduled_task"}], "dependencies":[{"org":"ballerina", "name":"log", "version":"2.0.1"}, {"org":"ballerina", "name":"http", "version":"2.0.1"}]}
