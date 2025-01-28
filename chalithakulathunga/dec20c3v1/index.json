@@ -1,0 +1,1 @@
+{"org":"chalithakulathunga", "name":"dec20c3v1", "version":"1.1.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"dec20c3v1"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
