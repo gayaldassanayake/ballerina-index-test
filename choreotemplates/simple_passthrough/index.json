@@ -1,0 +1,1 @@
+{"org":"choreotemplates", "name":"simple_passthrough", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"simple_passthrough"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.0.1"}]}
