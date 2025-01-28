@@ -7,3 +7,4 @@
 {"org":"ballerina", "name":"xslt", "version":"2.2.1", "platform":"java11", "ballerina_version":"2201.0.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"xslt"}], "dependencies":[]}
 {"org":"ballerina", "name":"xslt", "version":"2.2.2", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"xslt"}], "dependencies":[]}
 {"org":"ballerina", "name":"xslt", "version":"2.3.0", "platform":"java11", "ballerina_version":"2201.3.0-rc2.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"xslt"}], "dependencies":[]}
+{"org":"ballerina", "name":"xslt", "version":"2.4.0", "platform":"java11", "ballerina_version":"2201.4.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"xslt"}], "dependencies":[]}
