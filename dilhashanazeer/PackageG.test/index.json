@@ -1,0 +1,1 @@
+{"org":"dilhashanazeer", "name":"PackageG.test", "version":"0.0.1", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"PackageG.test.mod.api"}], "dependencies":[]}
