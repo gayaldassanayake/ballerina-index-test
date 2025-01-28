@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"health", "version":"2.2.0", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"health"}], "dependencies":[]}
