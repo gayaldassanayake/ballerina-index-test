@@ -3,3 +3,4 @@
 {"org":"ballerina", "name":"lang.float", "version":"2201.10.2", "platform":"java17", "ballerina_version":"2201.10.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.float"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.float", "version":"2201.10.3", "platform":"java17", "ballerina_version":"2201.10.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.float"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.float", "version":"2201.5.0", "platform":"java11", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.float"}], "dependencies":[]}
+{"org":"ballerina", "name":"lang.float", "version":"2201.7.0", "platform":"java11", "ballerina_version":"2201.7.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.float"}], "dependencies":[]}
