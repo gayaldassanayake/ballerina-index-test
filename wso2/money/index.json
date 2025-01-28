@@ -1,0 +1,1 @@
+{"org":"wso2", "name":"money", "version":"0.1.0", "platform":"any", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"money"}], "dependencies":[{"org":"wso2", "name":"client_stubs", "version":"0.1.0"}]}
