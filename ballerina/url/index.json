@@ -2,3 +2,4 @@
 {"org":"ballerina", "name":"url", "version":"2.0.0", "platform":"java11", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
 {"org":"ballerina", "name":"url", "version":"2.0.1", "platform":"java11", "ballerina_version":"slbeta4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
 {"org":"ballerina", "name":"url", "version":"2.0.2", "platform":"java11", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
+{"org":"ballerina", "name":"url", "version":"2.1.0", "platform":"java11", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"url"}], "dependencies":[]}
