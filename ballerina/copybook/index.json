@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"copybook", "version":"0.1.0", "platform":"java17", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"copybook"}], "dependencies":[]}
+{"org":"ballerina", "name":"copybook", "version":"0.1.1", "platform":"java17", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"copybook"}], "dependencies":[]}
