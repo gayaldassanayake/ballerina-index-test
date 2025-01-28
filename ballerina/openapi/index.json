@@ -16,3 +16,4 @@
 {"org":"ballerina", "name":"openapi", "version":"1.8.1", "platform":"java17", "ballerina_version":"2201.8.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"openapi"}], "dependencies":[]}
 {"org":"ballerina", "name":"openapi", "version":"1.8.2", "platform":"java17", "ballerina_version":"2201.8.5-20240215-121600-220e9a17", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"openapi"}], "dependencies":[]}
 {"org":"ballerina", "name":"openapi", "version":"2.0.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"openapi"}], "dependencies":[]}
+{"org":"ballerina", "name":"openapi", "version":"2.2.0", "platform":"java21", "ballerina_version":"2201.11.0-20241209-162400-0c015833", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"openapi"}], "dependencies":[]}
