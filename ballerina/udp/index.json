@@ -18,3 +18,4 @@
 {"org":"ballerina", "name":"udp", "version":"1.6.0", "platform":"java11", "ballerina_version":"2201.4.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
 {"org":"ballerina", "name":"udp", "version":"1.7.0", "platform":"java11", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
 {"org":"ballerina", "name":"udp", "version":"1.7.1", "platform":"java11", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
+{"org":"ballerina", "name":"udp", "version":"1.7.2", "platform":"java11", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
