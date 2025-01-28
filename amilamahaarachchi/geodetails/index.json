@@ -1,0 +1,1 @@
+{"org":"amilamahaarachchi", "name":"geodetails", "version":"1.0.0-M2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"geodetails"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.0.0"}]}
