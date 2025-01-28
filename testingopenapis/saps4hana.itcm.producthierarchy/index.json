@@ -1,0 +1,1 @@
+{"org":"testingopenapis", "name":"saps4hana.itcm.producthierarchy", "version":"1.0.1", "platform":"any", "ballerina_version":"slbeta5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"saps4hana.itcm.producthierarchy"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.0.1"}]}
