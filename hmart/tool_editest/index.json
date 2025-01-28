@@ -1,1 +1,2 @@
 {"org":"hmart", "name":"tool_editest", "version":"0.1.2", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_editest"}], "dependencies":[]}
+{"org":"hmart", "name":"tool_editest", "version":"0.1.5", "platform":"any", "ballerina_version":"2201.6.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_editest"}], "dependencies":[]}
