@@ -9,3 +9,4 @@
 {"org":"ballerina", "name":"time", "version":"2.2.3", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"time"}], "dependencies":[]}
 {"org":"ballerina", "name":"time", "version":"2.2.4", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"time"}], "dependencies":[]}
 {"org":"ballerina", "name":"time", "version":"2.2.5", "platform":"java11", "ballerina_version":"2201.0.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"time"}], "dependencies":[]}
+{"org":"ballerina", "name":"time", "version":"2.3.0", "platform":"java11", "ballerina_version":"2201.7.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"time"}], "dependencies":[]}
