@@ -7,3 +7,4 @@
 {"org":"ballerinax", "name":"redis", "version":"2.2.2", "platform":"java11", "ballerina_version":"2201.0.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"redis"}], "dependencies":[]}
 {"org":"ballerinax", "name":"redis", "version":"2.3.0", "platform":"java11", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"redis"}], "dependencies":[]}
 {"org":"ballerinax", "name":"redis", "version":"2.3.1", "platform":"java11", "ballerina_version":"2201.2.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"redis"}], "dependencies":[]}
+{"org":"ballerinax", "name":"redis", "version":"2.3.2", "platform":"java11", "ballerina_version":"2201.3.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"redis"}], "dependencies":[]}
