@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"covid_19_statistics", "version":"1.0.0", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"covid_19_statistics"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.1.0"}]}
