@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"lang.map", "version":"2201.10.0", "platform":"java17", "ballerina_version":"2201.10.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.map"}], "dependencies":[]}
+{"org":"ballerina", "name":"lang.map", "version":"2201.10.1", "platform":"java17", "ballerina_version":"2201.10.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.map"}], "dependencies":[]}
