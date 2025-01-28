@@ -1,0 +1,1 @@
+{"org":"pramodya", "name":"central_test_pkg", "version":"0.1.0", "platform":"any", "ballerina_version":"slalpha5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"central_test_pkg"}], "dependencies":[]}
