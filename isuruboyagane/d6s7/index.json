@@ -1,0 +1,1 @@
+{"org":"isuruboyagane", "name":"d6s7", "version":"1.0.0-alpha.2", "platform":"any", "ballerina_version":"slbeta5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"d6s7"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.0.1"}, {"org":"ballerina", "name":"http", "version":"2.0.1"}]}
