@@ -1,0 +1,1 @@
+{"org":"nimalsilva900", "name":"chalithadec17", "version":"1.0.0-beta7", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"chalithadec17"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
