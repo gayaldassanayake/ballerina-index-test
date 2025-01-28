@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"data.xmldata", "version":"0.1.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"data.xmldata"}], "dependencies":[]}
+{"org":"ballerina", "name":"data.xmldata", "version":"0.1.1", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"data.xmldata"}], "dependencies":[]}
