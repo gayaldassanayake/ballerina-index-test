@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"udp", "version":"0.9.0-beta.1", "platform":"java11", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
+{"org":"ballerina", "name":"udp", "version":"0.9.0-beta.2", "platform":"java11", "ballerina_version":"slbeta2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"udp"}], "dependencies":[]}
