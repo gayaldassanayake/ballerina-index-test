@@ -1,0 +1,1 @@
+{"org":"asmajtest", "name":"hello", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.8.4", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"hello"}], "dependencies":[]}
