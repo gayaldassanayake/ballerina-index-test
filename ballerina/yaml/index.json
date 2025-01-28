@@ -1,0 +1,1 @@
+{"org":"ballerina", "name":"yaml", "version":"0.3.0", "platform":"any", "ballerina_version":"2201.5.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"yaml"}], "dependencies":[{"org":"ballerina", "name":"io", "version":"1.4.1"}, {"org":"ballerina", "name":"log", "version":"2.7.1"}, {"org":"ballerina", "name":"file", "version":"1.7.1"}]}
