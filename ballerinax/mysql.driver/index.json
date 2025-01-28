@@ -1,1 +1,2 @@
 {"org":"ballerinax", "name":"mysql.driver", "version":"1.1.1", "platform":"java11", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mysql.driver"}], "dependencies":[]}
+{"org":"ballerinax", "name":"mysql.driver", "version":"1.2.0", "platform":"java11", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mysql.driver"}], "dependencies":[]}
