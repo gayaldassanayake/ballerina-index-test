@@ -10,3 +10,4 @@
 {"org":"ballerina", "name":"lang.table", "version":"2201.8.1", "platform":"java17", "ballerina_version":"2201.8.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.table"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.table", "version":"2201.8.2", "platform":"java17", "ballerina_version":"2201.8.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.table"}], "dependencies":[]}
 {"org":"ballerina", "name":"lang.table", "version":"2201.9.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.table"}], "dependencies":[]}
+{"org":"ballerina", "name":"lang.table", "version":"2201.9.1", "platform":"java17", "ballerina_version":"2201.9.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"lang.table"}], "dependencies":[]}
