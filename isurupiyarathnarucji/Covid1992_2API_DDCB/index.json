@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"Covid1992_2API_DDCB", "version":"1.0.4", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"Covid1992_2API_DDCB"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
