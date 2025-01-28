@@ -4,3 +4,4 @@
 {"org":"choreo", "name":"mediation", "version":"0.5.0", "platform":"any", "ballerina_version":"2201.1.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
 {"org":"choreo", "name":"mediation", "version":"0.5.1", "platform":"any", "ballerina_version":"2201.1.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
 {"org":"choreo", "name":"mediation", "version":"0.6.0", "platform":"any", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
+{"org":"choreo", "name":"mediation", "version":"0.6.1", "platform":"any", "ballerina_version":"2201.2.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"mediation"}], "dependencies":[]}
