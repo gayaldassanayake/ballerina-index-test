@@ -1,1 +1,2 @@
 {"org":"dilhashanazeer", "name":"pack.test2", "version":"1.0.1-beta.2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"pack.test2.mod"}], "dependencies":[]}
+{"org":"dilhashanazeer", "name":"pack.test2", "version":"1.0.2", "platform":"any", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"pack.test2.mod"}], "dependencies":[]}
