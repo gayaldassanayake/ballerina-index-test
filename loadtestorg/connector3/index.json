@@ -1,0 +1,1 @@
+{"org":"loadtestorg", "name":"connector3", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.0.2", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"connector3"}, {"name":"connector3.module1"}, {"name":"connector3.module2"}], "dependencies":[]}
