@@ -1,0 +1,1 @@
+{"org":"staging_ui_test_org", "name":"staging_test_pkg", "version":"0.1.0", "platform":"any", "ballerina_version":"slbeta1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"staging_test_pkg"}], "dependencies":[]}
