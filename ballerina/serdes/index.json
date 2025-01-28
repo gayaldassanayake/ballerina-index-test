@@ -1,0 +1,1 @@
+{"org":"ballerina", "name":"serdes", "version":"0.1.0", "platform":"java11", "ballerina_version":"2201.2.0", "is_deprecated":true, "deprecation_message":"No longer maintained", "modules":[{"name":"serdes"}], "dependencies":[]}
