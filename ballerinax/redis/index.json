@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"redis", "version":"0.99.8", "platform":"java11", "ballerina_version":"slbeta3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"redis"}], "dependencies":[]}
