@@ -1,0 +1,1 @@
+{"org":"ballerinax", "name":"financial.swift.mt", "version":"1.0.0", "platform":"java17", "ballerina_version":"2201.10.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"financial.swift.mt"}], "dependencies":[{"org":"ballerina", "name":"data.xmldata", "version":"1.0.0"}]}
