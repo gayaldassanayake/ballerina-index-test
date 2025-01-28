@@ -1,1 +1,2 @@
 {"org":"ballerina", "name":"ldap", "version":"1.0.1", "platform":"java17", "ballerina_version":"2201.8.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"ldap"}], "dependencies":[]}
+{"org":"ballerina", "name":"ldap", "version":"1.1.0", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"ldap"}], "dependencies":[{"org":"ballerina", "name":"crypto", "version":"2.7.2"}]}
