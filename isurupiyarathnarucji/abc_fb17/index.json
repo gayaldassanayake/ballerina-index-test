@@ -1,0 +1,1 @@
+{"org":"isurupiyarathnarucji", "name":"abc_fb17", "version":"1.0.0-ghh", "platform":"any", "ballerina_version":"slbeta6", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"abc_fb17"}], "dependencies":[{"org":"ballerina", "name":"url", "version":"2.1.0"}, {"org":"ballerina", "name":"http", "version":"2.1.0"}]}
