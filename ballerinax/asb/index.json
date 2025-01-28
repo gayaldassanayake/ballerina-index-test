@@ -9,3 +9,4 @@
 {"org":"ballerinax", "name":"asb", "version":"2.4.0", "platform":"java11", "ballerina_version":"2201.2.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"asb"}], "dependencies":[]}
 {"org":"ballerinax", "name":"asb", "version":"2.4.1", "platform":"java11", "ballerina_version":"2201.2.3", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"asb"}], "dependencies":[]}
 {"org":"ballerinax", "name":"asb", "version":"3.0.0", "platform":"java11", "ballerina_version":"2201.3.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"asb"}], "dependencies":[]}
+{"org":"ballerinax", "name":"asb", "version":"3.0.1", "platform":"java11", "ballerina_version":"2201.3.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"asb"}], "dependencies":[{"org":"ballerina", "name":"log", "version":"2.5.1"}]}
