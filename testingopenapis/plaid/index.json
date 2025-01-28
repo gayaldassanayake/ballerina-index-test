@@ -1,0 +1,1 @@
+{"org":"testingopenapis", "name":"plaid", "version":"1.0.1", "platform":"any", "ballerina_version":"slbeta5", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"plaid"}], "dependencies":[{"org":"ballerina", "name":"http", "version":"2.0.1"}]}
