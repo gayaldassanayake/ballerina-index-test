@@ -1,1 +1,2 @@
 {"org":"winerynew", "name":"myconnew", "version":"1.0.3", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"myconnew"}], "dependencies":[]}
+{"org":"winerynew", "name":"myconnew", "version":"1.0.4", "platform":"any", "ballerina_version":"2201.1.1", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"myconnew"}], "dependencies":[]}
