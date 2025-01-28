@@ -1,0 +1,1 @@
+{"org":"tharanawanigaratne", "name":"tool_scan", "version":"0.0.1", "platform":"java17", "ballerina_version":"2201.9.0", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"tool_scan"}], "dependencies":[]}
