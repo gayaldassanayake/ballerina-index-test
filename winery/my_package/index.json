@@ -1,1 +1,2 @@
 {"org":"winery", "name":"my_package", "version":"1.0.0", "platform":"any", "ballerina_version":"2201.0.0-20211221-194900-b414ea8e", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"my_package"}], "dependencies":[]}
+{"org":"winery", "name":"my_package", "version":"1.0.0-snapshot", "platform":"any", "ballerina_version":"2201.0.0-20211221-194900-b414ea8e", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"my_package"}], "dependencies":[]}
