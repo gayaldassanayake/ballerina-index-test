@@ -1,0 +1,1 @@
+{"org":"winery", "name":"disttestpack1", "version":"1.1.0", "platform":"any", "ballerina_version":"2201.0.0-20220106-095400-ca7ef719", "is_deprecated":false, "deprecation_message":"", "modules":[{"name":"disttestpack1"}], "dependencies":[]}
